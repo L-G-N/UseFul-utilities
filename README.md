@@ -1,2 +1,4 @@
 # UseFul-utilities
-Basic utilities like rename muliple file &amp; folders name ... similar to that but using only basic JAVA. 
+1. Removing prefix from files and folder names.
+    Using Core JAVA and poweshel commands
+  Ex: 000125song.Mp3 -> song.Mp3 , 98movie_name -> movie_name
